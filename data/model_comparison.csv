@@ -1,0 +1,6 @@
+Model,MAE,RMSE,MAPE,SMAPE,R2
+Persistence (last year),3.7502,7.7063,5.6189,5.8476,0.8246
+Linear Regression,3.9622,7.5198,7.785,6.823,0.833
+Random Forest,4.0661,7.7041,8.0867,6.8936,0.8247
+XGBoost,4.045,7.7684,7.602,6.7863,0.8218
+Temporal Fusion Transformer,3.8016,7.6894,5.7906,6.1393,0.8254
